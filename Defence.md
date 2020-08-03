@@ -135,6 +135,9 @@ https://github.com/stamparm/ipsum
 Windows事件日志分析及可视化，审计非法登陆
 https://github.com/JPCERTCC/LogonTracer
 
+GScan: 旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。
+https://github.com/grayddq/GScan
+
 CaptfEncoder 跨平台网络安全工具套件,提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
 https://github.com/guyoung/CaptfEncoder
 
@@ -183,6 +186,9 @@ https://github.com/biggiesmallsAG/nightHawkResponse
 
 secure-ls 高水平加密和数据压缩的本地安全存储
 https://github.com/softvar/secure-ls
+
+容器安全镜像Liter,帮助构建最好的Docker镜像 
+https://github.com/goodwithtech/dockle
 
 有关linux容器安全，命名空间，cgroups等等的gitbook
 https://github.com/makash/linux-container-security-docs
@@ -446,6 +452,9 @@ https://github.com/grafov/hulk
 大数据安全检测工具
 https://github.com/kotobukki/BigDataAudit
 
+SQL 审核查询平台
+https://github.com/hhyo/Archery
+
 pick --  Linux和OS X最小化密码管理工具
 https://github.com/bndw/pick
 
@@ -466,6 +475,9 @@ https://github.com/bfuzzy/auditd-attack
 
 ⭐️ An anomaly-based intrusion detection system.
 https://github.com/alexfrancow/A-Detector
+
+AntiRansom:Fighting against ransomware using honeypots
+https://github.com/YJesus/AntiRansom
 
 悟空API网关 开源版
 https://github.com/eolinker/GoKu-API-Gateway
